@@ -23,7 +23,7 @@
 		"envalid": "8.0.0",
 		"extract-colors": "4.0.2",
 		"hono": "4.4.4",
-		"ioredis": "5.3.2",
+		"ioredis": "5.4.2",
 		"ky": "1.2.2",
 		"next-api-utils": "1.1.0",
 		"p-limit": "4.0.0",
