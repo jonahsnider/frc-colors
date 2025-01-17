@@ -23,7 +23,7 @@
 		"@types/pg": "8.11.2",
 		"drizzle-kit": "0.30.2",
 		"envalid": "8.0.0",
-		"pino": "8.21.0",
+		"pino": "9.6.0",
 		"pino-pretty": "10.3.1",
 		"prettier": "3.4.2",
 		"prettier-plugin-packagejson": "2.5.8",
