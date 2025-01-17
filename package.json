@@ -16,11 +16,11 @@
 		"type-check": "turbo run type-check"
 	},
 	"dependencies": {
-		"pg": "8.11.3"
+		"pg": "8.13.1"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.6.1",
-		"@types/pg": "8.11.2",
+		"@types/pg": "8.11.10",
 		"drizzle-kit": "0.30.2",
 		"envalid": "8.0.0",
 		"pino": "8.21.0",
