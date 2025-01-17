@@ -9,7 +9,7 @@
 	},
 	"dependencies": {
 		"@bull-board/api": "5.15.1",
-		"@bull-board/hono": "5.15.1",
+		"@bull-board/hono": "5.23.0",
 		"@hono/trpc-server": "0.1.1",
 		"@hono/zod-validator": "0.2.0",
 		"@jonahsnider/util": "10.3.0",
