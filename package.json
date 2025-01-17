@@ -27,7 +27,7 @@
 		"pino-pretty": "10.3.1",
 		"prettier": "3.4.2",
 		"prettier-plugin-packagejson": "2.5.8",
-		"turbo": "1.13.4",
+		"turbo": "2.3.3",
 		"vercel": "35.2.4"
 	},
 	"trustedDependencies": [
