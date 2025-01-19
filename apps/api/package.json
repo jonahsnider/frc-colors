@@ -8,7 +8,7 @@
 		"type-check": "tsc"
 	},
 	"dependencies": {
-		"@bull-board/api": "5.15.1",
+		"@bull-board/api": "6.7.0",
 		"@bull-board/hono": "5.15.1",
 		"@hono/trpc-server": "0.1.1",
 		"@hono/zod-validator": "0.2.0",
